@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python virtual environment
+.venv/
+venv/
+ENV/
+
+# Azure Functions specific
+local.settings.json
+.python_packages/
+
+# VS Code settings
+.vscode/
+
+# macOS specific
+.DS_Store
